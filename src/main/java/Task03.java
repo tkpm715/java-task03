@@ -15,7 +15,7 @@ public class Task03 {
 
     esa.indexOrderOut(names); //インデックス番号順に表示
     esa.descOrderOut(names); //降順表示 sort
-    esa.filterOut(names); // ４文字以上の名前だけ表示 filter
+    esa.filterOut(names); // ３文字以上の名前だけ表示 filter
     esa.skipLimitOut(names); // インデックス順２番目から２つ表示
 
     ////// （課題）任意のプログラムで例外を起こしてみる  /////
